@@ -11,7 +11,7 @@ Screens made with raw HTML, CSS and JS for fundraiser app!!
 
 ![image](https://user-images.githubusercontent.com/75661314/168117945-37b20426-3f64-467d-88e2-73c359306f30.png)
 
-![image](https://user-images.githubusercontent.com/75661314/168118041-02de2ffb-f5b4-4106-b748-4e0429ae860b.png)
+![image](https://user-images.githubusercontent.com/85097320/223961754-bd17d977-8d94-4fb2-a513-1c0f745cdef1.png)
 
 ![image](https://user-images.githubusercontent.com/85097320/223959904-3be016bd-4581-4a14-8d2d-09136d7f85bc.png)
 

@@ -1,5 +1,5 @@
 
-# Caritas
+# Seva
 
 Screens made with raw HTML, CSS and JS for fundraiser app!!
 

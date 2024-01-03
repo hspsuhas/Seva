@@ -18,4 +18,4 @@ Screens made with raw HTML, CSS and JS for fundraiser app!!
 ![image](https://user-images.githubusercontent.com/85097320/223961256-333229ce-493c-4de6-88f8-b9aa6d76d7db.png)
 
 
-## [Deployed site](https://suhas-2002.github.io/Seva/)
+## [Deployed site](https://hspsuhas.github.io/Seva/)
